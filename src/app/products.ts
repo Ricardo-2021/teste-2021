@@ -3,26 +3,27 @@ export interface Product {
   name: string;
   price: number;
   description: string;
+ // descri: string;
 }
 
 export const products = [
   {
     id: 1,
     name: 'Apartamento 2 dormitórios com sacada',
-    price: 50.00,  
-    description: 'Valor da diaria, contato (51)99999999'
+    price: 6666,  
+    description: 'estrada frederico dihl , 1001'
     
   },
   {
     id: 2,
-    name: 'Phone Mini',
-    price: 669,
-    description: 'A great phone with one of the best cameras'
+    name: 'Casa com 2 dormitórios com garagem',
+    price: 6666,
+    description: 'rua baltazar de oliveira garcia'
   },
   {
     id: 3,
     name: 'Phone Standard',
-    price: 299,
+    price: 66666,
     description: ''
   }
 ];
