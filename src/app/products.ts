@@ -25,6 +25,24 @@ export const products = [
     name: 'Phone Standard',
     price: 66666,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'Casa com 2 dormitórios com garagem',
+    price: 6666,
+    description: 'rua baltazar de oliveira garcia'
+  },
+  {
+    id: 5,
+    name: 'Casa com 2 dormitórios com garagem',
+    price: 6666,
+    description: 'rua baltazar de oliveira garcia'
+  },
+  {
+    id: 6,
+    name: 'Casa com 2 dormitórios com garagem',
+    price: 6666,
+    description: 'rua baltazar de oliveira garcia'
   }
 ];
 
